@@ -1,7 +1,7 @@
 # coding1
 # Final Project
 # MIMIC Link:https://mimicproject.com/code/3dcba26e-faa2-fc78-67ce-26861bb147ed
-# Video:
+# Video:https://youtu.be/IiJmQhn07xw
 # Project Description
 For the final project of Coding One course, I designed a scene by combining three.js and constructed music snippets.
 ## Audio:
