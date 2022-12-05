@@ -1,3 +1,4 @@
+
 # coding1
 # Final Project
 # MIMIC Link:https://mimicproject.com/code/3dcba26e-faa2-fc78-67ce-26861bb147ed
@@ -14,5 +15,6 @@ I want to imitate the shuttle movement of small meteorites of different shapes, 
 I built three different light sources and used TorusKnotGeometry to build a ring like object with a transition between light and shade on the front and back.The main item was very light in color, so I built stacked glowing cubes and placed them on TorusKnotGeometry, making the small cubes appear in different random colors.
 ## Final Display:
 The following picture is the final display of my project.
+<img width="1189" alt="截屏2022-12-05 下午4 06 15" src="https://user-images.githubusercontent.com/119873931/205689935-51ff0951-9b5c-422b-9e76-6a26227ef5d4.png">
 ## Sounds:
 I added audio using the Maximilian library.I found some spatial electronic sounds, and I think they fit my scene.
